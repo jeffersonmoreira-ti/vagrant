@@ -1,6 +1,6 @@
 <?php
-echo "Testing connection to mysql server<br /> <br />";
-$servername = "192.168.100.186";
+echo "Testing connection to MySql Server<br /> <br />";
+$servername = "192.168.100.188";
 $username = "phpuser";
 $password = "pass";
 
